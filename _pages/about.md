@@ -4,12 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='#'> </a>. "*In my view, all that is necessary for faith is the belief that by doing our best we shall come nearer to success and that success in our aims (the improvement of the lot of mankind, present and future) is worth attaining" -- Rosalind Franklin*
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
